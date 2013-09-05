@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//lib-docworks1/IN/pudl/pudl0111/4715477/00000006.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.6-1.11</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>NA</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="14" FONTFAMILY="Unknown"/>
+		<TextStyle ID="TXT_1" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_2" FONTSIZE="4" FONTFAMILY="Unknown"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P6" PHYSICAL_IMG_NR="6" HEIGHT="4544" WIDTH="3376" QUALITY="Damaged" PC="0.978">
+			<TopMargin ID="P6_TM00001" HPOS="0" VPOS="0" WIDTH="3376" HEIGHT="257"/>
+			<LeftMargin ID="P6_LM00001" HPOS="0" VPOS="257" WIDTH="60" HEIGHT="4255"/>
+			<RightMargin ID="P6_RM00001" HPOS="3335" VPOS="257" WIDTH="41" HEIGHT="4255"/>
+			<BottomMargin ID="P6_BM00001" HPOS="0" VPOS="4512" WIDTH="3376" HEIGHT="32"/>
+			<PrintSpace ID="P6_PS00001" HPOS="60" VPOS="257" WIDTH="3275" HEIGHT="4255">
+				<TextBlock ID="P6_TB00001" HPOS="860" VPOS="507" WIDTH="214" HEIGHT="821" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P6_TL00001" HPOS="860" VPOS="507" WIDTH="214" HEIGHT="821">
+						<String ID="P6_ST00001" HPOS="860" VPOS="507" WIDTH="214" HEIGHT="821" CONTENT="I" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P6_TB00002" HPOS="348" VPOS="1578" WIDTH="1800" HEIGHT="595" STYLEREFS="TXT_0 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="348,1578 1861,1578 1861,1981 2148,1981 2148,2173 348,2173"/>
+					</Shape>
+					<TextLine ID="P6_TL00002" HPOS="348" VPOS="1578" WIDTH="1800" HEIGHT="298">
+						<String ID="P6_ST00002" HPOS="348" VPOS="1578" WIDTH="100" HEIGHT="298" CONTENT="I" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P6_SP00001" HPOS="448" VPOS="1876" WIDTH="100"/>
+						<String ID="P6_ST00003" HPOS="548" VPOS="1578" WIDTH="200" HEIGHT="298" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P6_SP00002" HPOS="748" VPOS="1876" WIDTH="100"/>
+						<String ID="P6_ST00004" HPOS="848" VPOS="1578" WIDTH="300" HEIGHT="298" CONTENT="for" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P6_SP00003" HPOS="1148" VPOS="1876" WIDTH="100"/>
+						<String ID="P6_ST00005" HPOS="1248" VPOS="1578" WIDTH="900" HEIGHT="298" CONTENT="Infantry," WC="0.98" CC="000000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P6_TL00003" HPOS="348" VPOS="1876" WIDTH="1800" HEIGHT="297">
+						<String ID="P6_ST00006" HPOS="348" VPOS="1876" WIDTH="284" HEIGHT="297" CONTENT="who" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P6_SP00004" HPOS="632" VPOS="2173" WIDTH="95"/>
+						<String ID="P6_ST00007" HPOS="727" VPOS="1876" WIDTH="568" HEIGHT="297" CONTENT="boldly" WC="0.98" CC="000000" STYLEREFS="TXT_1"/>
+						<SP ID="P6_SP00005" HPOS="1295" VPOS="2173" WIDTH="95"/>
+						<String ID="P6_ST00008" HPOS="1390" VPOS="1876" WIDTH="758" HEIGHT="297" CONTENT="advance." WC="0.98" CC="00000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P6_TB00003" HPOS="642" VPOS="2423" WIDTH="606" HEIGHT="836" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P6_TL00004" HPOS="642" VPOS="2423" WIDTH="606" HEIGHT="836">
+						<String ID="P6_ST00009" HPOS="642" VPOS="2423" WIDTH="606" HEIGHT="836" CONTENT="J" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P6_TB00004" HPOS="358" VPOS="3458" WIDTH="2548" HEIGHT="589" STYLEREFS="TXT_2 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="358,3458 1535,3458 1535,3856 2906,3856 2906,4047 358,4047"/>
+					</Shape>
+					<TextLine ID="P6_TL00005" HPOS="358" VPOS="4029" WIDTH="2548" HEIGHT="18">
+						<String ID="P6_ST00010" HPOS="358" VPOS="4029" WIDTH="196" HEIGHT="18" CONTENT="J" WC="0.96" CC="0"/>
+						<SP ID="P6_SP00006" HPOS="554" VPOS="4047" WIDTH="196"/>
+						<String ID="P6_ST00011" HPOS="750" VPOS="4029" WIDTH="392" HEIGHT="18" CONTENT="is" WC="0.98" CC="00"/>
+						<SP ID="P6_SP00007" HPOS="1142" VPOS="4047" WIDTH="196"/>
+						<String ID="P6_ST00012" HPOS="1338" VPOS="4029" WIDTH="588" HEIGHT="18" CONTENT="for" WC="0.98" CC="000"/>
+						<SP ID="P6_SP00008" HPOS="1926" VPOS="4047" WIDTH="196"/>
+						<String ID="P6_ST00013" HPOS="2122" VPOS="4029" WIDTH="784" HEIGHT="18" CONTENT="Jig," WC="0.98" CC="0000"/>
+					</TextLine>
+					<TextLine ID="P6_TL00006" HPOS="358" VPOS="4046" WIDTH="2548" HEIGHT="1">
+						<String ID="P6_ST00014" HPOS="358" VPOS="4046" WIDTH="455" HEIGHT="1" CONTENT="which" WC="0.98" CC="00000"/>
+						<SP ID="P6_SP00009" HPOS="813" VPOS="4047" WIDTH="91"/>
+						<String ID="P6_ST00015" HPOS="904" VPOS="4046" WIDTH="273" HEIGHT="1" CONTENT="the" WC="0.98" CC="000"/>
+						<SP ID="P6_SP00010" HPOS="1177" VPOS="4047" WIDTH="91"/>
+						<String ID="P6_ST00016" HPOS="1268" VPOS="4046" WIDTH="1001" HEIGHT="1" CONTENT="Contrabands" WC="0.98" CC="00000000000"/>
+						<SP ID="P6_SP00011" HPOS="2269" VPOS="4047" WIDTH="91"/>
+						<String ID="P6_ST00017" HPOS="2360" VPOS="4046" WIDTH="546" HEIGHT="1" CONTENT="dance." WC="0.98" CC="000000"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P6_CB00001" HPOS="1923" VPOS="391" WIDTH="814" HEIGHT="1551" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P6_CB00001_SUB" HPOS="1923" VPOS="391" WIDTH="814" HEIGHT="1551"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P6_CB00002" HPOS="1685" VPOS="2411" WIDTH="1208" HEIGHT="1414" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P6_CB00002_SUB" HPOS="1685" VPOS="2411" WIDTH="1208" HEIGHT="1414"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

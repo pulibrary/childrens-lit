@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//lib-docworks1/IN/pudl/pudl0111/4715477/00000003.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.6-1.11</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>NA</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="14" FONTFAMILY="Unknown"/>
+		<TextStyle ID="TXT_1" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_2" FONTSIZE="62" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P3" PHYSICAL_IMG_NR="3" HEIGHT="4544" WIDTH="3376" PC="0.985">
+			<TopMargin ID="P3_TM00001" HPOS="0" VPOS="0" WIDTH="3376" HEIGHT="69"/>
+			<LeftMargin ID="P3_LM00001" HPOS="0" VPOS="69" WIDTH="68" HEIGHT="4458"/>
+			<RightMargin ID="P3_RM00001" HPOS="3311" VPOS="69" WIDTH="65" HEIGHT="4458"/>
+			<BottomMargin ID="P3_BM00001" HPOS="0" VPOS="4527" WIDTH="3376" HEIGHT="17"/>
+			<PrintSpace ID="P3_PS00001" HPOS="68" VPOS="69" WIDTH="3243" HEIGHT="4458">
+				<TextBlock ID="P3_TB00001" HPOS="771" VPOS="473" WIDTH="631" HEIGHT="844" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P3_TL00001" HPOS="771" VPOS="473" WIDTH="631" HEIGHT="844">
+						<String ID="P3_ST00001" HPOS="771" VPOS="473" WIDTH="631" HEIGHT="844" CONTENT="C" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P3_TB00002" HPOS="466" VPOS="1535" WIDTH="1817" HEIGHT="603" STYLEREFS="TXT_0 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="466,1535 1840,1535 1840,1986 2283,1986 2283,2138 466,2138"/>
+					</Shape>
+					<TextLine ID="P3_TL00002" HPOS="466" VPOS="1535" WIDTH="1817" HEIGHT="302">
+						<String ID="P3_ST00002" HPOS="466" VPOS="1535" WIDTH="121" HEIGHT="302" CONTENT="C" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P3_SP00001" HPOS="587" VPOS="1837" WIDTH="121"/>
+						<String ID="P3_ST00003" HPOS="708" VPOS="1535" WIDTH="242" HEIGHT="302" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P3_SP00002" HPOS="950" VPOS="1837" WIDTH="121"/>
+						<String ID="P3_ST00004" HPOS="1071" VPOS="1535" WIDTH="121" HEIGHT="302" CONTENT="a" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P3_SP00003" HPOS="1192" VPOS="1837" WIDTH="121"/>
+						<String ID="P3_ST00005" HPOS="1313" VPOS="1535" WIDTH="970" HEIGHT="302" CONTENT="Captain," WC="0.98" CC="00000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P3_TL00003" HPOS="466" VPOS="1837" WIDTH="1817" HEIGHT="301">
+						<String ID="P3_ST00006" HPOS="466" VPOS="1837" WIDTH="287" HEIGHT="301" CONTENT="who" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P3_SP00004" HPOS="753" VPOS="2138" WIDTH="96"/>
+						<String ID="P3_ST00007" HPOS="849" VPOS="1837" WIDTH="287" HEIGHT="301" CONTENT="led" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P3_SP00005" HPOS="1136" VPOS="2138" WIDTH="96"/>
+						<String ID="P3_ST00008" HPOS="1232" VPOS="1837" WIDTH="191" HEIGHT="301" CONTENT="on" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P3_SP00006" HPOS="1423" VPOS="2138" WIDTH="96"/>
+						<String ID="P3_ST00009" HPOS="1519" VPOS="1837" WIDTH="286" HEIGHT="301" CONTENT="his" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P3_SP00007" HPOS="1805" VPOS="2138" WIDTH="96"/>
+						<String ID="P3_ST00010" HPOS="1901" VPOS="1837" WIDTH="382" HEIGHT="301" CONTENT="men." WC="0.98" CC="0000" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P3_TB00003" HPOS="761" VPOS="2410" WIDTH="660" HEIGHT="839" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P3_TL00004" HPOS="761" VPOS="2410" WIDTH="660" HEIGHT="839">
+						<String ID="P3_ST00011" HPOS="761" VPOS="2410" WIDTH="660" HEIGHT="839" CONTENT="D" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P3_TB00004" HPOS="457" VPOS="3460" WIDTH="1956" HEIGHT="643" STYLEREFS="TXT_2 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="457,3460 1922,3460 1922,3828 2413,3828 2413,4103 457,4103"/>
+					</Shape>
+					<TextLine ID="P3_TL00005" HPOS="457" VPOS="3911" WIDTH="1956" HEIGHT="157">
+						<String ID="P3_ST00012" HPOS="457" VPOS="3911" WIDTH="140" HEIGHT="157" CONTENT="D" WC="0.98" CC="0"/>
+						<SP ID="P3_SP00008" HPOS="597" VPOS="4068" WIDTH="1441"/>
+						<String ID="P3_ST00013" HPOS="2038" VPOS="3911" WIDTH="63" HEIGHT="157" CONTENT="is" WC="0.98" CC="00"/>
+						<SP ID="P3_SP00009" HPOS="2101" VPOS="4068" WIDTH="31"/>
+						<String ID="P3_ST00014" HPOS="2132" VPOS="3911" WIDTH="31" HEIGHT="157" CONTENT="a" WC="0.98" CC="0"/>
+						<SP ID="P3_SP00010" HPOS="2163" VPOS="4068" WIDTH="31"/>
+						<String ID="P3_ST00015" HPOS="2194" VPOS="3911" WIDTH="219" HEIGHT="157" CONTENT="Drummer" WC="1.00" CC="0000000"/>
+					</TextLine>
+					<TextLine ID="P3_TL00006" HPOS="457" VPOS="3908" WIDTH="1956" HEIGHT="155">
+						<String ID="P3_ST00016" HPOS="457" VPOS="3908" WIDTH="340" HEIGHT="155" CONTENT="Boy," WC="1.00" CC="0000"/>
+						<SP ID="P3_SP00011" HPOS="797" VPOS="4063" WIDTH="85"/>
+						<String ID="P3_ST00017" HPOS="882" VPOS="3908" WIDTH="510" HEIGHT="155" CONTENT="called" WC="1.00" CC="000000"/>
+						<SP ID="P3_SP00012" HPOS="1392" VPOS="4063" WIDTH="85"/>
+						<String ID="P3_ST00018" HPOS="1477" VPOS="3908" WIDTH="511" HEIGHT="155" CONTENT="little" WC="1.00" CC="000000"/>
+						<SP ID="P3_SP00013" HPOS="1988" VPOS="4063" WIDTH="85"/>
+						<String ID="P3_ST00019" HPOS="2073" VPOS="3908" WIDTH="340" HEIGHT="155" CONTENT="Ben." WC="1.00" CC="0001"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P3_CB00001" HPOS="1888" VPOS="378" WIDTH="1145" HEIGHT="1584" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P3_CB00001_SUB" HPOS="1888" VPOS="378" WIDTH="1145" HEIGHT="1584"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P3_CB00002" HPOS="1939" VPOS="2386" WIDTH="1117" HEIGHT="1345" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P3_CB00002_SUB" HPOS="1939" VPOS="2386" WIDTH="1117" HEIGHT="1345"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

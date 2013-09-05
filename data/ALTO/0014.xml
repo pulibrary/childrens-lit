@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//lib-docworks1/IN/pudl/pudl0111/4715477/00000014.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.6-1.11</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>NA</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="14" FONTFAMILY="Unknown"/>
+		<TextStyle ID="TXT_1" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_2" FONTSIZE="35" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_3" FONTSIZE="26" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_4" FONTSIZE="4" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P14" PHYSICAL_IMG_NR="14" HEIGHT="4544" WIDTH="3376" QUALITY="Damaged" PC="0.976">
+			<TopMargin ID="P14_TM00001" HPOS="0" VPOS="0" WIDTH="3376" HEIGHT="88"/>
+			<LeftMargin ID="P14_LM00001" HPOS="0" VPOS="88" WIDTH="37" HEIGHT="4400"/>
+			<RightMargin ID="P14_RM00001" HPOS="3336" VPOS="88" WIDTH="40" HEIGHT="4400"/>
+			<BottomMargin ID="P14_BM00001" HPOS="0" VPOS="4488" WIDTH="3376" HEIGHT="56"/>
+			<PrintSpace ID="P14_PS00001" HPOS="37" VPOS="88" WIDTH="3299" HEIGHT="4400">
+				<TextBlock ID="P14_TB00001" HPOS="594" VPOS="486" WIDTH="658" HEIGHT="831" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P14_TL00001" HPOS="594" VPOS="486" WIDTH="658" HEIGHT="831">
+						<String ID="P14_ST00001" HPOS="594" VPOS="486" WIDTH="658" HEIGHT="831" CONTENT="Y" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P14_TB00002" HPOS="344" VPOS="1498" WIDTH="2312" HEIGHT="611" STYLEREFS="TXT_2 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="344,1498 1535,1498 1535,1879 2656,1879 2656,2109 344,2109"/>
+					</Shape>
+					<TextLine ID="P14_TL00002" HPOS="344" VPOS="1905" WIDTH="2312" HEIGHT="76">
+						<String ID="P14_ST00002" HPOS="344" VPOS="1905" WIDTH="178" HEIGHT="76" CONTENT="Y" WC="0.96" CC="0"/>
+						<SP ID="P14_SP00001" HPOS="522" VPOS="1981" WIDTH="178"/>
+						<String ID="P14_ST00003" HPOS="700" VPOS="1905" WIDTH="356" HEIGHT="76" CONTENT="is" WC="0.98" CC="00"/>
+						<SP ID="P14_SP00002" HPOS="1056" VPOS="1981" WIDTH="178"/>
+						<String ID="P14_ST00004" HPOS="1234" VPOS="1905" WIDTH="178" HEIGHT="76" CONTENT="a" WC="0.98" CC="0"/>
+						<SP ID="P14_SP00003" HPOS="1412" VPOS="1981" WIDTH="178"/>
+						<String ID="P14_ST00005" HPOS="1590" VPOS="1905" WIDTH="1066" HEIGHT="76" CONTENT="Youth," WC="0.98" CC="000000"/>
+					</TextLine>
+					<TextLine ID="P14_TL00003" HPOS="344" VPOS="1981" WIDTH="2312" HEIGHT="128">
+						<String ID="P14_ST00006" HPOS="344" VPOS="1981" WIDTH="302" HEIGHT="128" CONTENT="who" WC="0.98" CC="000"/>
+						<SP ID="P14_SP00004" HPOS="646" VPOS="2109" WIDTH="101"/>
+						<String ID="P14_ST00007" HPOS="747" VPOS="1981" WIDTH="100" HEIGHT="128" CONTENT="a" WC="0.98" CC="0"/>
+						<SP ID="P14_SP00005" HPOS="847" VPOS="2109" WIDTH="101"/>
+						<String ID="P14_ST00008" HPOS="948" VPOS="1981" WIDTH="703" HEIGHT="128" CONTENT="soldier" WC="0.98" CC="0000000"/>
+						<SP ID="P14_SP00006" HPOS="1651" VPOS="2109" WIDTH="101"/>
+						<String ID="P14_ST00009" HPOS="1752" VPOS="1981" WIDTH="502" HEIGHT="128" CONTENT="would" WC="0.98" CC="00000"/>
+						<SP ID="P14_SP00007" HPOS="2254" VPOS="2109" WIDTH="101"/>
+						<String ID="P14_ST00010" HPOS="2355" VPOS="1981" WIDTH="301" HEIGHT="128" CONTENT="go." WC="0.98" CC="000"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P14_TB00003" HPOS="629" VPOS="2381" WIDTH="788" HEIGHT="931" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P14_TL00004" HPOS="629" VPOS="2381" WIDTH="788" HEIGHT="931">
+						<String ID="P14_ST00011" HPOS="629" VPOS="2381" WIDTH="788" HEIGHT="931" CONTENT="Z" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P14_TB00004" HPOS="357" VPOS="3451" WIDTH="2187" HEIGHT="619" STYLEREFS="TXT_3 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="357,3451 1511,3451 1511,3884 2544,3884 2544,4070 357,4070"/>
+					</Shape>
+					<TextLine ID="P14_TL00005" HPOS="357" VPOS="3563" WIDTH="2187" HEIGHT="56">
+						<String ID="P14_ST00012" HPOS="357" VPOS="3563" WIDTH="182" HEIGHT="56" CONTENT="Z" WC="0.96" CC="0" STYLEREFS="TXT_4"/>
+						<SP ID="P14_SP00008" HPOS="539" VPOS="3619" WIDTH="182"/>
+						<String ID="P14_ST00013" HPOS="721" VPOS="3563" WIDTH="365" HEIGHT="56" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_4"/>
+						<SP ID="P14_SP00009" HPOS="1086" VPOS="3619" WIDTH="182"/>
+						<String ID="P14_ST00014" HPOS="1268" VPOS="3563" WIDTH="1276" HEIGHT="56" CONTENT="Zouave," WC="0.98" CC="0000000" STYLEREFS="TXT_4"/>
+					</TextLine>
+					<TextLine ID="P14_TL00006" HPOS="357" VPOS="3619" WIDTH="2187" HEIGHT="28">
+						<String ID="P14_ST00015" HPOS="357" VPOS="3619" WIDTH="285" HEIGHT="28" CONTENT="who" WC="0.98" CC="000"/>
+						<SP ID="P14_SP00010" HPOS="642" VPOS="3647" WIDTH="95"/>
+						<String ID="P14_ST00016" HPOS="737" VPOS="3619" WIDTH="666" HEIGHT="28" CONTENT="charged" WC="0.98" CC="0000000"/>
+						<SP ID="P14_SP00011" HPOS="1403" VPOS="3647" WIDTH="95"/>
+						<String ID="P14_ST00017" HPOS="1498" VPOS="3619" WIDTH="190" HEIGHT="28" CONTENT="on" WC="0.98" CC="00"/>
+						<SP ID="P14_SP00012" HPOS="1688" VPOS="3647" WIDTH="95"/>
+						<String ID="P14_ST00018" HPOS="1783" VPOS="3619" WIDTH="285" HEIGHT="28" CONTENT="the" WC="0.98" CC="000"/>
+						<SP ID="P14_SP00013" HPOS="2068" VPOS="3647" WIDTH="95"/>
+						<String ID="P14_ST00019" HPOS="2163" VPOS="3619" WIDTH="381" HEIGHT="28" CONTENT="foe." WC="0.98" CC="0000"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P14_CB00001" HPOS="1676" VPOS="469" WIDTH="1245" HEIGHT="1322" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P14_CB00001_SUB" HPOS="1676" VPOS="469" WIDTH="1245" HEIGHT="1322"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P14_CB00002" HPOS="1912" VPOS="2320" WIDTH="986" HEIGHT="1504" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P14_CB00002_SUB" HPOS="1912" VPOS="2320" WIDTH="986" HEIGHT="1504"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

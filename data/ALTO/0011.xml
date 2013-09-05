@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//lib-docworks1/IN/pudl/pudl0111/4715477/00000011.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.6-1.11</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>NA</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="14" FONTFAMILY="Unknown"/>
+		<TextStyle ID="TXT_1" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_2" FONTSIZE="38" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P11" PHYSICAL_IMG_NR="11" HEIGHT="4544" WIDTH="3376" QUALITY="Damaged" PC="0.975">
+			<TopMargin ID="P11_TM00001" HPOS="0" VPOS="0" WIDTH="3376" HEIGHT="258"/>
+			<LeftMargin ID="P11_LM00001" HPOS="0" VPOS="258" WIDTH="74" HEIGHT="4219"/>
+			<RightMargin ID="P11_RM00001" HPOS="3289" VPOS="258" WIDTH="87" HEIGHT="4219"/>
+			<BottomMargin ID="P11_BM00001" HPOS="0" VPOS="4477" WIDTH="3376" HEIGHT="67"/>
+			<PrintSpace ID="P11_PS00001" HPOS="74" VPOS="258" WIDTH="3215" HEIGHT="4219">
+				<TextBlock ID="P11_TB00001" HPOS="740" VPOS="490" WIDTH="635" HEIGHT="847" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P11_TL00001" HPOS="740" VPOS="490" WIDTH="635" HEIGHT="847">
+						<String ID="P11_ST00001" HPOS="740" VPOS="490" WIDTH="635" HEIGHT="847" CONTENT="S" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P11_TB00002" HPOS="464" VPOS="1520" WIDTH="1988" HEIGHT="556" STYLEREFS="TXT_0 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="464,1520 1604,1520 1604,1846 2452,1846 2452,2076 464,2076"/>
+					</Shape>
+					<TextLine ID="P11_TL00002" HPOS="464" VPOS="1520" WIDTH="1988" HEIGHT="278">
+						<String ID="P11_ST00002" HPOS="464" VPOS="1520" WIDTH="142" HEIGHT="278" CONTENT="S" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P11_SP00001" HPOS="606" VPOS="1798" WIDTH="142"/>
+						<String ID="P11_ST00003" HPOS="748" VPOS="1520" WIDTH="284" HEIGHT="278" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P11_SP00002" HPOS="1032" VPOS="1798" WIDTH="142"/>
+						<String ID="P11_ST00004" HPOS="1174" VPOS="1520" WIDTH="142" HEIGHT="278" CONTENT="a" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P11_SP00003" HPOS="1316" VPOS="1798" WIDTH="142"/>
+						<String ID="P11_ST00005" HPOS="1458" VPOS="1520" WIDTH="994" HEIGHT="278" CONTENT="Sailor," WC="0.98" CC="0000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P11_TL00003" HPOS="464" VPOS="1798" WIDTH="1988" HEIGHT="278">
+						<String ID="P11_ST00006" HPOS="464" VPOS="1798" WIDTH="284" HEIGHT="278" CONTENT="who" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P11_SP00004" HPOS="748" VPOS="2076" WIDTH="95"/>
+						<String ID="P11_ST00007" HPOS="843" VPOS="1798" WIDTH="852" HEIGHT="278" CONTENT="respected" WC="0.98" CC="000000000" STYLEREFS="TXT_1"/>
+						<SP ID="P11_SP00005" HPOS="1695" VPOS="2076" WIDTH="95"/>
+						<String ID="P11_ST00008" HPOS="1790" VPOS="1798" WIDTH="284" HEIGHT="278" CONTENT="wiĺ" WC="0.96" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P11_SP00006" HPOS="2074" VPOS="2076" WIDTH="95"/>
+						<String ID="P11_ST00009" HPOS="2169" VPOS="1798" WIDTH="283" HEIGHT="278" CONTENT="be." WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P11_TB00003" HPOS="754" VPOS="2414" WIDTH="663" HEIGHT="839" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P11_TL00004" HPOS="754" VPOS="2414" WIDTH="663" HEIGHT="839">
+						<String ID="P11_ST00010" HPOS="754" VPOS="2414" WIDTH="663" HEIGHT="839" CONTENT="T" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P11_TB00004" HPOS="473" VPOS="3527" WIDTH="2284" HEIGHT="618" STYLEREFS="TXT_2 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="473,3527 1786,3527 1786,3902 2757,3902 2757,4145 473,4145"/>
+					</Shape>
+					<TextLine ID="P11_TL00005" HPOS="473" VPOS="3943" WIDTH="2284" HEIGHT="145">
+						<String ID="P11_ST00011" HPOS="473" VPOS="3943" WIDTH="152" HEIGHT="145" CONTENT="T" WC="0.96" CC="0"/>
+						<SP ID="P11_SP00007" HPOS="625" VPOS="4088" WIDTH="152"/>
+						<String ID="P11_ST00012" HPOS="777" VPOS="3943" WIDTH="305" HEIGHT="145" CONTENT="is" WC="0.98" CC="00"/>
+						<SP ID="P11_SP00008" HPOS="1082" VPOS="4088" WIDTH="152"/>
+						<String ID="P11_ST00013" HPOS="1234" VPOS="3943" WIDTH="153" HEIGHT="145" CONTENT="a" WC="0.98" CC="0"/>
+						<SP ID="P11_SP00009" HPOS="1387" VPOS="4088" WIDTH="152"/>
+						<String ID="P11_ST00014" HPOS="1539" VPOS="3943" WIDTH="1218" HEIGHT="145" CONTENT="Traitor," WC="0.98" CC="00000000"/>
+					</TextLine>
+					<TextLine ID="P11_TL00006" HPOS="473" VPOS="4088" WIDTH="2284" HEIGHT="57">
+						<String ID="P11_ST00015" HPOS="473" VPOS="4088" WIDTH="381" HEIGHT="57" CONTENT="that" WC="0.98" CC="0000"/>
+						<SP ID="P11_SP00010" HPOS="854" VPOS="4145" WIDTH="95"/>
+						<String ID="P11_ST00016" HPOS="949" VPOS="4088" WIDTH="286" HEIGHT="57" CONTENT="was" WC="0.98" CC="000"/>
+						<SP ID="P11_SP00011" HPOS="1235" VPOS="4145" WIDTH="95"/>
+						<String ID="P11_ST00017" HPOS="1330" VPOS="4088" WIDTH="381" HEIGHT="57" CONTENT="hung" WC="0.98" CC="0000"/>
+						<SP ID="P11_SP00012" HPOS="1711" VPOS="4145" WIDTH="95"/>
+						<String ID="P11_ST00018" HPOS="1806" VPOS="4088" WIDTH="190" HEIGHT="57" CONTENT="on" WC="0.98" CC="00"/>
+						<SP ID="P11_SP00013" HPOS="1996" VPOS="4145" WIDTH="95"/>
+						<String ID="P11_ST00019" HPOS="2091" VPOS="4088" WIDTH="95" HEIGHT="57" CONTENT="a" WC="0.98" CC="0"/>
+						<SP ID="P11_SP00014" HPOS="2186" VPOS="4145" WIDTH="95"/>
+						<String ID="P11_ST00020" HPOS="2281" VPOS="4088" WIDTH="476" HEIGHT="57" CONTENT="tree." WC="0.98" CC="00000"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P11_CB00001" HPOS="1883" VPOS="405" WIDTH="1128" HEIGHT="1418" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P11_CB00001_SUB" HPOS="1883" VPOS="405" WIDTH="1128" HEIGHT="1418"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P11_CB00002" HPOS="1946" VPOS="2230" WIDTH="1074" HEIGHT="1578" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P11_CB00002_SUB" HPOS="1946" VPOS="2230" WIDTH="1074" HEIGHT="1578"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

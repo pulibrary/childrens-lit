@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//lib-docworks1/IN/pudl/pudl0111/4715477/00000008.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.6-1.11</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>NA</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="14" FONTFAMILY="Unknown"/>
+		<TextStyle ID="TXT_1" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P8" PHYSICAL_IMG_NR="8" HEIGHT="4544" WIDTH="3376" QUALITY="Damaged" PC="0.978">
+			<TopMargin ID="P8_TM00001" HPOS="0" VPOS="0" WIDTH="3376" HEIGHT="218"/>
+			<LeftMargin ID="P8_LM00001" HPOS="0" VPOS="218" WIDTH="66" HEIGHT="4310"/>
+			<RightMargin ID="P8_RM00001" HPOS="3310" VPOS="218" WIDTH="66" HEIGHT="4310"/>
+			<BottomMargin ID="P8_BM00001" HPOS="0" VPOS="4528" WIDTH="3376" HEIGHT="16"/>
+			<PrintSpace ID="P8_PS00001" HPOS="66" VPOS="218" WIDTH="3244" HEIGHT="4310">
+				<TextBlock ID="P8_TB00001" HPOS="620" VPOS="476" WIDTH="846" HEIGHT="827" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P8_TL00001" HPOS="620" VPOS="476" WIDTH="846" HEIGHT="827">
+						<String ID="P8_ST00001" HPOS="620" VPOS="476" WIDTH="846" HEIGHT="827" CONTENT="M" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P8_TB00002" HPOS="330" VPOS="1749" WIDTH="1800" HEIGHT="476" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P8_TL00002" HPOS="330" VPOS="1749" WIDTH="1800" HEIGHT="238">
+						<String ID="P8_ST00002" HPOS="330" VPOS="1749" WIDTH="100" HEIGHT="238" CONTENT="M" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00001" HPOS="430" VPOS="1987" WIDTH="100"/>
+						<String ID="P8_ST00003" HPOS="530" VPOS="1749" WIDTH="200" HEIGHT="238" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00002" HPOS="730" VPOS="1987" WIDTH="100"/>
+						<String ID="P8_ST00004" HPOS="830" VPOS="1749" WIDTH="300" HEIGHT="238" CONTENT="for" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00003" HPOS="1130" VPOS="1987" WIDTH="100"/>
+						<String ID="P8_ST00005" HPOS="1230" VPOS="1749" WIDTH="900" HEIGHT="238" CONTENT="Monument," WC="0.98" CC="000000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P8_TL00003" HPOS="330" VPOS="1987" WIDTH="1800" HEIGHT="238">
+						<String ID="P8_ST00006" HPOS="330" VPOS="1987" WIDTH="189" HEIGHT="238" CONTENT="to" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00004" HPOS="519" VPOS="2225" WIDTH="95"/>
+						<String ID="P8_ST00007" HPOS="614" VPOS="1987" WIDTH="474" HEIGHT="238" CONTENT="honor" WC="0.98" CC="00000" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00005" HPOS="1088" VPOS="2225" WIDTH="95"/>
+						<String ID="P8_ST00008" HPOS="1183" VPOS="1987" WIDTH="284" HEIGHT="238" CONTENT="the" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00006" HPOS="1467" VPOS="2225" WIDTH="95"/>
+						<String ID="P8_ST00009" HPOS="1562" VPOS="1987" WIDTH="568" HEIGHT="238" CONTENT="brave." WC="0.98" CC="000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P8_TB00003" HPOS="629" VPOS="2508" WIDTH="644" HEIGHT="835" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P8_TL00004" HPOS="629" VPOS="2508" WIDTH="644" HEIGHT="835">
+						<String ID="P8_ST00010" HPOS="629" VPOS="2508" WIDTH="644" HEIGHT="835" CONTENT="N" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P8_TB00004" HPOS="328" VPOS="3524" WIDTH="1616" HEIGHT="564" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P8_TL00005" HPOS="328" VPOS="3524" WIDTH="1616" HEIGHT="282">
+						<String ID="P8_ST00011" HPOS="328" VPOS="3524" WIDTH="108" HEIGHT="282" CONTENT="N" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00007" HPOS="436" VPOS="3806" WIDTH="108"/>
+						<String ID="P8_ST00012" HPOS="544" VPOS="3524" WIDTH="215" HEIGHT="282" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00008" HPOS="759" VPOS="3806" WIDTH="108"/>
+						<String ID="P8_ST00013" HPOS="867" VPOS="3524" WIDTH="323" HEIGHT="282" CONTENT="for" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00009" HPOS="1190" VPOS="3806" WIDTH="108"/>
+						<String ID="P8_ST00014" HPOS="1298" VPOS="3524" WIDTH="646" HEIGHT="282" CONTENT="Negro," WC="0.98" CC="000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P8_TL00006" HPOS="328" VPOS="3806" WIDTH="1616" HEIGHT="282">
+						<String ID="P8_ST00015" HPOS="328" VPOS="3806" WIDTH="180" HEIGHT="282" CONTENT="no" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00010" HPOS="508" VPOS="4088" WIDTH="90"/>
+						<String ID="P8_ST00016" HPOS="598" VPOS="3806" WIDTH="538" HEIGHT="282" CONTENT="longer" WC="0.98" CC="000000" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00011" HPOS="1136" VPOS="4088" WIDTH="90"/>
+						<String ID="P8_ST00017" HPOS="1226" VPOS="3806" WIDTH="90" HEIGHT="282" CONTENT="a" WC="0.98" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P8_SP00012" HPOS="1316" VPOS="4088" WIDTH="90"/>
+						<String ID="P8_ST00018" HPOS="1406" VPOS="3806" WIDTH="538" HEIGHT="282" CONTENT="slave." WC="0.98" CC="000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P8_CB00001" HPOS="1829" VPOS="396" WIDTH="1070" HEIGHT="1338" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P8_CB00001_SUB" HPOS="1829" VPOS="396" WIDTH="1070" HEIGHT="1338"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P8_CB00002" HPOS="1504" VPOS="2430" WIDTH="1375" HEIGHT="1059" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P8_CB00002_SUB" HPOS="1504" VPOS="2430" WIDTH="1375" HEIGHT="1059"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

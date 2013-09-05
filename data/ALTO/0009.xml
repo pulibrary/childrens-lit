@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//lib-docworks1/IN/pudl/pudl0111/4715477/00000009.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.6-1.11</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>NA</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="14" FONTFAMILY="Unknown"/>
+		<TextStyle ID="TXT_1" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_2" FONTSIZE="26" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P9" PHYSICAL_IMG_NR="9" HEIGHT="4544" WIDTH="3376" QUALITY="Damaged" PC="0.975">
+			<TopMargin ID="P9_TM00001" HPOS="0" VPOS="0" WIDTH="3376" HEIGHT="286"/>
+			<LeftMargin ID="P9_LM00001" HPOS="0" VPOS="286" WIDTH="175" HEIGHT="3894"/>
+			<RightMargin ID="P9_RM00001" HPOS="3092" VPOS="286" WIDTH="284" HEIGHT="3894"/>
+			<BottomMargin ID="P9_BM00001" HPOS="0" VPOS="4180" WIDTH="3376" HEIGHT="364"/>
+			<PrintSpace ID="P9_PS00001" HPOS="175" VPOS="286" WIDTH="2917" HEIGHT="3894">
+				<TextBlock ID="P9_TB00001" HPOS="771" VPOS="471" WIDTH="723" HEIGHT="847" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P9_TL00001" HPOS="771" VPOS="471" WIDTH="723" HEIGHT="847">
+						<String ID="P9_ST00001" HPOS="771" VPOS="471" WIDTH="723" HEIGHT="847" CONTENT="O" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P9_TB00002" HPOS="483" VPOS="1598" WIDTH="1798" HEIGHT="544" STYLEREFS="TXT_2 PAR_LEFT">
+					<TextLine ID="P9_TL00002" HPOS="483" VPOS="1598" WIDTH="1798" HEIGHT="272">
+						<String ID="P9_ST00002" HPOS="483" VPOS="1598" WIDTH="120" HEIGHT="272" CONTENT="O" WC="0.96" CC="0"/>
+						<SP ID="P9_SP00001" HPOS="603" VPOS="1870" WIDTH="120"/>
+						<String ID="P9_ST00003" HPOS="723" VPOS="1598" WIDTH="240" HEIGHT="272" CONTENT="is" WC="0.98" CC="00"/>
+						<SP ID="P9_SP00002" HPOS="963" VPOS="1870" WIDTH="120"/>
+						<String ID="P9_ST00004" HPOS="1083" VPOS="1598" WIDTH="239" HEIGHT="272" CONTENT="an" WC="0.98" CC="00"/>
+						<SP ID="P9_SP00003" HPOS="1322" VPOS="1870" WIDTH="120"/>
+						<String ID="P9_ST00005" HPOS="1442" VPOS="1598" WIDTH="839" HEIGHT="272" CONTENT="Oƒicer," WC="0.96" CC="0000000"/>
+					</TextLine>
+					<TextLine ID="P9_TL00003" HPOS="483" VPOS="1870" WIDTH="1798" HEIGHT="272">
+						<String ID="P9_ST00006" HPOS="483" VPOS="1870" WIDTH="428" HEIGHT="272" CONTENT="proud" WC="0.98" CC="00000"/>
+						<SP ID="P9_SP00004" HPOS="911" VPOS="2142" WIDTH="86"/>
+						<String ID="P9_ST00007" HPOS="997" VPOS="1870" WIDTH="171" HEIGHT="272" CONTENT="of" WC="0.98" CC="00"/>
+						<SP ID="P9_SP00005" HPOS="1168" VPOS="2142" WIDTH="86"/>
+						<String ID="P9_ST00008" HPOS="1254" VPOS="1870" WIDTH="256" HEIGHT="272" CONTENT="his" WC="0.98" CC="000"/>
+						<SP ID="P9_SP00006" HPOS="1510" VPOS="2142" WIDTH="86"/>
+						<String ID="P9_ST00009" HPOS="1596" VPOS="1870" WIDTH="685" HEIGHT="272" CONTENT="station." WC="0.98" CC="00000000"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P9_TB00003" HPOS="733" VPOS="2398" WIDTH="679" HEIGHT="835" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P9_TL00004" HPOS="733" VPOS="2398" WIDTH="679" HEIGHT="835">
+						<String ID="P9_ST00010" HPOS="733" VPOS="2398" WIDTH="679" HEIGHT="835" CONTENT="P" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P9_TB00004" HPOS="486" VPOS="3515" WIDTH="2471" HEIGHT="550" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P9_TL00005" HPOS="486" VPOS="3515" WIDTH="2471" HEIGHT="275">
+						<String ID="P9_ST00011" HPOS="486" VPOS="3515" WIDTH="130" HEIGHT="275" CONTENT="P" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P9_SP00007" HPOS="616" VPOS="3790" WIDTH="130"/>
+						<String ID="P9_ST00012" HPOS="746" VPOS="3515" WIDTH="260" HEIGHT="275" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P9_SP00008" HPOS="1006" VPOS="3790" WIDTH="130"/>
+						<String ID="P9_ST00013" HPOS="1136" VPOS="3515" WIDTH="390" HEIGHT="275" CONTENT="the" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P9_SP00009" HPOS="1526" VPOS="3790" WIDTH="130"/>
+						<String ID="P9_ST00014" HPOS="1656" VPOS="3515" WIDTH="1301" HEIGHT="275" CONTENT="President," WC="0.98" CC="0000000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P9_TL00006" HPOS="486" VPOS="3790" WIDTH="2471" HEIGHT="275">
+						<String ID="P9_ST00015" HPOS="486" VPOS="3790" WIDTH="275" HEIGHT="275" CONTENT="who" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P9_SP00010" HPOS="761" VPOS="4065" WIDTH="92"/>
+						<String ID="P9_ST00016" HPOS="853" VPOS="3790" WIDTH="457" HEIGHT="275" CONTENT="ruled" WC="0.98" CC="00000" STYLEREFS="TXT_1"/>
+						<SP ID="P9_SP00011" HPOS="1310" VPOS="4065" WIDTH="92"/>
+						<String ID="P9_ST00017" HPOS="1402" VPOS="3790" WIDTH="274" HEIGHT="275" CONTENT="the" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P9_SP00012" HPOS="1676" VPOS="4065" WIDTH="92"/>
+						<String ID="P9_ST00018" HPOS="1768" VPOS="3790" WIDTH="457" HEIGHT="275" CONTENT="great" WC="0.98" CC="00000" STYLEREFS="TXT_1"/>
+						<SP ID="P9_SP00013" HPOS="2225" VPOS="4065" WIDTH="92"/>
+						<String ID="P9_ST00019" HPOS="2317" VPOS="3790" WIDTH="640" HEIGHT="275" CONTENT="nation." WC="0.98" CC="0000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P9_CB00001" HPOS="1867" VPOS="455" WIDTH="1189" HEIGHT="1076" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P9_CB00001_SUB" HPOS="1867" VPOS="455" WIDTH="1189" HEIGHT="1076"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P9_CB00002" HPOS="1772" VPOS="2375" WIDTH="1320" HEIGHT="1088" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P9_CB00002_SUB" HPOS="1772" VPOS="2375" WIDTH="1320" HEIGHT="1088"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

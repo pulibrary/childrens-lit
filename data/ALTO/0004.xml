@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//lib-docworks1/IN/pudl/pudl0111/4715477/00000004.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.6-1.11</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>NA</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="14" FONTFAMILY="Unknown"/>
+		<TextStyle ID="TXT_1" FONTSIZE="12" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_2" FONTSIZE="26" FONTFAMILY="Times New Roman"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+	</Styles>
+	<Layout>
+		<Page ID="P4" PHYSICAL_IMG_NR="4" HEIGHT="4544" WIDTH="3376" PC="0.976">
+			<TopMargin ID="P4_TM00001" HPOS="0" VPOS="0" WIDTH="3376" HEIGHT="97"/>
+			<LeftMargin ID="P4_LM00001" HPOS="0" VPOS="97" WIDTH="104" HEIGHT="4243"/>
+			<RightMargin ID="P4_RM00001" HPOS="3307" VPOS="97" WIDTH="69" HEIGHT="4243"/>
+			<BottomMargin ID="P4_BM00001" HPOS="0" VPOS="4340" WIDTH="3376" HEIGHT="204"/>
+			<PrintSpace ID="P4_PS00001" HPOS="104" VPOS="97" WIDTH="3203" HEIGHT="4243">
+				<TextBlock ID="P4_TB00001" HPOS="617" VPOS="488" WIDTH="617" HEIGHT="848" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P4_TL00001" HPOS="617" VPOS="488" WIDTH="617" HEIGHT="848">
+						<String ID="P4_ST00001" HPOS="617" VPOS="488" WIDTH="617" HEIGHT="848" CONTENT="E" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P4_TB00002" HPOS="340" VPOS="1512" WIDTH="1976" HEIGHT="549" STYLEREFS="TXT_2 PAR_LEFT">
+					<TextLine ID="P4_TL00002" HPOS="340" VPOS="1512" WIDTH="1976" HEIGHT="275">
+						<String ID="P4_ST00002" HPOS="340" VPOS="1512" WIDTH="132" HEIGHT="275" CONTENT="E" WC="0.96" CC="0"/>
+						<SP ID="P4_SP00001" HPOS="472" VPOS="1787" WIDTH="132"/>
+						<String ID="P4_ST00003" HPOS="604" VPOS="1512" WIDTH="263" HEIGHT="275" CONTENT="is" WC="0.98" CC="00"/>
+						<SP ID="P4_SP00002" HPOS="867" VPOS="1787" WIDTH="132"/>
+						<String ID="P4_ST00004" HPOS="999" VPOS="1512" WIDTH="395" HEIGHT="275" CONTENT="the" WC="0.98" CC="000"/>
+						<SP ID="P4_SP00003" HPOS="1394" VPOS="1787" WIDTH="132"/>
+						<String ID="P4_ST00005" HPOS="1526" VPOS="1512" WIDTH="790" HEIGHT="275" CONTENT="Eagle," WC="0.98" CC="000000"/>
+					</TextLine>
+					<TextLine ID="P4_TL00003" HPOS="340" VPOS="1787" WIDTH="1976" HEIGHT="274">
+						<String ID="P4_ST00006" HPOS="340" VPOS="1787" WIDTH="359" HEIGHT="274" CONTENT="that" WC="0.98" CC="0000"/>
+						<SP ID="P4_SP00004" HPOS="699" VPOS="2061" WIDTH="90"/>
+						<String ID="P4_ST00007" HPOS="789" VPOS="1787" WIDTH="629" HEIGHT="274" CONTENT="proudly" WC="0.98" CC="0000000"/>
+						<SP ID="P4_SP00005" HPOS="1418" VPOS="2061" WIDTH="90"/>
+						<String ID="P4_ST00008" HPOS="1508" VPOS="1787" WIDTH="269" HEIGHT="274" CONTENT="did" WC="0.98" CC="000"/>
+						<SP ID="P4_SP00006" HPOS="1777" VPOS="2061" WIDTH="90"/>
+						<String ID="P4_ST00009" HPOS="1867" VPOS="1787" WIDTH="449" HEIGHT="274" CONTENT="soar." WC="0.98" CC="00000"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P4_TB00003" HPOS="621" VPOS="2442" WIDTH="598" HEIGHT="870" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P4_TL00004" HPOS="621" VPOS="2442" WIDTH="598" HEIGHT="870">
+						<String ID="P4_ST00010" HPOS="621" VPOS="2442" WIDTH="598" HEIGHT="870" CONTENT="F" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P4_TB00004" HPOS="372" VPOS="3535" WIDTH="2316" HEIGHT="570" STYLEREFS="TXT_0 PAR_LEFT">
+					<Shape>
+						<Polygon POINTS="372,3535 1836,3535 1836,3958 2688,3958 2688,4105 372,4105"/>
+					</Shape>
+					<TextLine ID="P4_TL00005" HPOS="372" VPOS="3535" WIDTH="2316" HEIGHT="285">
+						<String ID="P4_ST00011" HPOS="372" VPOS="3535" WIDTH="165" HEIGHT="285" CONTENT="F" WC="0.96" CC="0" STYLEREFS="TXT_1"/>
+						<SP ID="P4_SP00007" HPOS="537" VPOS="3820" WIDTH="165"/>
+						<String ID="P4_ST00012" HPOS="702" VPOS="3535" WIDTH="331" HEIGHT="285" CONTENT="is" WC="0.98" CC="00" STYLEREFS="TXT_1"/>
+						<SP ID="P4_SP00008" HPOS="1033" VPOS="3820" WIDTH="166"/>
+						<String ID="P4_ST00013" HPOS="1199" VPOS="3535" WIDTH="496" HEIGHT="285" CONTENT="our" WC="0.98" CC="000" STYLEREFS="TXT_1"/>
+						<SP ID="P4_SP00009" HPOS="1695" VPOS="3820" WIDTH="166"/>
+						<String ID="P4_ST00014" HPOS="1861" VPOS="3535" WIDTH="827" HEIGHT="285" CONTENT="Flag," WC="0.98" CC="00000" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P4_TL00006" HPOS="372" VPOS="3820" WIDTH="2316" HEIGHT="285">
+						<String ID="P4_ST00015" HPOS="372" VPOS="3820" WIDTH="371" HEIGHT="285" CONTENT="that" WC="0.98" CC="0000" STYLEREFS="TXT_1"/>
+						<SP ID="P4_SP00010" HPOS="743" VPOS="4105" WIDTH="93"/>
+						<String ID="P4_ST00016" HPOS="836" VPOS="3820" WIDTH="463" HEIGHT="285" CONTENT="shall" WC="0.98" CC="00000" STYLEREFS="TXT_1"/>
+						<SP ID="P4_SP00011" HPOS="1299" VPOS="4105" WIDTH="93"/>
+						<String ID="P4_ST00017" HPOS="1392" VPOS="3820" WIDTH="370" HEIGHT="285" CONTENT="wave" WC="0.98" CC="0000" STYLEREFS="TXT_1"/>
+						<SP ID="P4_SP00012" HPOS="1762" VPOS="4105" WIDTH="93"/>
+						<String ID="P4_ST00018" HPOS="1855" VPOS="3820" WIDTH="833" HEIGHT="285" CONTENT="evermore." WC="0.98" CC="000000000" STYLEREFS="TXT_1"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P4_CB00001" HPOS="1641" VPOS="476" WIDTH="1275" HEIGHT="943" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P4_CB00001_SUB" HPOS="1641" VPOS="476" WIDTH="1275" HEIGHT="943"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P4_CB00002" HPOS="1956" VPOS="2417" WIDTH="890" HEIGHT="1501" STYLEREFS="TXT_0 PAR_LEFT" TYPE="Illustration">
+					<GraphicalElement ID="P4_CB00002_SUB" HPOS="1956" VPOS="2417" WIDTH="890" HEIGHT="1501"/>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

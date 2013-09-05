@@ -1,0 +1,2817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://schema.ccs-gmbh.com/docworks/version20/mets-docworks.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/1999/xlink" TYPE="METAe_Monograph" LABEL="The Union ABC">
+  <metsHdr CREATEDATE="2013-09-03T17:07:36" LASTMODDATE="2013-09-03T17:07:36">
+    <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
+      <name>CCS docWORKS/METAe Version 6.6-1</name>
+      <note>docWORKS-ID: 97</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="MODSMD_PRINT">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the printed version">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PRINT_TI1" xml:lang="en">
+	    <MODS:nonSort>The</MODS:nonSort>
+	    <MODS:title>Union ABC</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	  <MODS:identifier type="local">4715477</MODS:identifier>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_ELEC">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the electronic version">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:originInfo>
+	    <MODS:dateCreated point="start" keyDate="yes" qualifier="approximate">2013-09-03</MODS:dateCreated>
+	  </MODS:originInfo>
+	  <MODS:titleInfo ID="MODSMD_ELEC_TI1" xml:lang="en">
+	    <MODS:nonSort>The</MODS:nonSort>
+	    <MODS:title>Union ABC</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	  <MODS:identifier type="local">4715477</MODS:identifier>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT1">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT1_TI1" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP1">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP1_TI1" xml:lang="en">
+	    <MODS:title>A</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT2">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT2_TI2" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP2">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP2_TI2" xml:lang="en">
+	    <MODS:title>B</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT3">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT3_TI3" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP3">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP3_TI3" xml:lang="en">
+	    <MODS:title>C</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT4">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT4_TI4" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP4">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP4_TI4" xml:lang="en">
+	    <MODS:title>D</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT5">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT5_TI5" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP5">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP5_TI5" xml:lang="en">
+	    <MODS:title>E</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT6">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT6_TI6" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP6">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP6_TI6" xml:lang="en">
+	    <MODS:title>F</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT7">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT7_TI7" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP7">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP7_TI7" xml:lang="en">
+	    <MODS:title>G</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT8">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT8_TI8" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP8">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP8_TI8" xml:lang="en">
+	    <MODS:title>H</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT9">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT9_TI9" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP9">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP9_TI9" xml:lang="en">
+	    <MODS:title>I</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT10">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT10_TI10" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP10">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP10_TI10" xml:lang="en">
+	    <MODS:title>J</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT11">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT11_TI11" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP11">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP11_TI11" xml:lang="en">
+	    <MODS:title>K</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT12">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT12_TI12" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP12">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP12_TI12" xml:lang="en">
+	    <MODS:title>L</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT13">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT13_TI13" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP13">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP13_TI13" xml:lang="en">
+	    <MODS:title>M</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT14">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT14_TI14" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP14">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP14_TI14" xml:lang="en">
+	    <MODS:title>N</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT15">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT15_TI15" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP15">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP15_TI15" xml:lang="en">
+	    <MODS:title>O</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT16">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT16_TI16" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP16">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP16_TI16" xml:lang="en">
+	    <MODS:title>P</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT17">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT17_TI17" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP17">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP17_TI17" xml:lang="en">
+	    <MODS:title>Q</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT18">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT18_TI18" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP18">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP18_TI18" xml:lang="en">
+	    <MODS:title>R</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT19">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT19_TI19" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP19">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP19_TI19" xml:lang="en">
+	    <MODS:title>S</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT20">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT20_TI20" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP20">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP20_TI20" xml:lang="en">
+	    <MODS:title>T</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT21">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT21_TI21" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP21">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP21_TI21" xml:lang="en">
+	    <MODS:title>U</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT22">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT22_TI22" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP22">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP22_TI22" xml:lang="en">
+	    <MODS:title>V</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT23">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT23_TI23" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP23">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP23_TI23" xml:lang="en">
+	    <MODS:title>W</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT24">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT24_TI24" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP24">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP24_TI24" xml:lang="en">
+	    <MODS:title>X</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT25">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT25_TI25" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP25">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP25_TI25" xml:lang="en">
+	    <MODS:title>Y</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT26">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT26_TI26" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_CHAP26">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of chapter 0">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_CHAP26_TI26" xml:lang="en">
+	    <MODS:title>Z</MODS:title>
+	  </MODS:titleInfo>
+	  <MODS:language>
+	    <MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+	  </MODS:language>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <dmdSec ID="MODSMD_PICT27">
+    <mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+      <xmlData>
+	<MODS:mods>
+	  <MODS:titleInfo ID="MODSMD_PICT27_TI27" xml:lang="en">
+	    <MODS:title>Untitled</MODS:title>
+	  </MODS:titleInfo>
+	</MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="IMGPARAM00001">
+    <techMD ID="IMGPARAM00001TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0001.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000001.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00002">
+    <techMD ID="IMGPARAM00002TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0002.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000002.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00003">
+    <techMD ID="IMGPARAM00003TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0003.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000003.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00004">
+    <techMD ID="IMGPARAM00004TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0004.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000004.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00005">
+    <techMD ID="IMGPARAM00005TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0005.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000005.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00006">
+    <techMD ID="IMGPARAM00006TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0006.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000006.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00007">
+    <techMD ID="IMGPARAM00007TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0007.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000007.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00008">
+    <techMD ID="IMGPARAM00008TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0008.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000008.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00009">
+    <techMD ID="IMGPARAM00009TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0009.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000009.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00010">
+    <techMD ID="IMGPARAM00010TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0010.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000010.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00011">
+    <techMD ID="IMGPARAM00011TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0011.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000011.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00012">
+    <techMD ID="IMGPARAM00012TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0012.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000012.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00013">
+    <techMD ID="IMGPARAM00013TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0013.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000013.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00014">
+    <techMD ID="IMGPARAM00014TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0014.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000014.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00015">
+    <techMD ID="IMGPARAM00015TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0015.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000015.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00016">
+    <techMD ID="IMGPARAM00016TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+	<xmlData>
+	  <mix:mix>
+	    <mix:BasicImageParameters>
+	      <mix:Format>
+		<mix:MIMEType>image/tiff</mix:MIMEType>
+		<mix:ByteOrder>little-endian</mix:ByteOrder>
+		<mix:Compression>
+		  <mix:CompressionScheme>1</mix:CompressionScheme>
+		</mix:Compression>
+		<mix:PhotometricInterpretation>
+		  <mix:ColorSpace>2</mix:ColorSpace>
+		</mix:PhotometricInterpretation>
+	      </mix:Format>
+	      <mix:File>
+		<mix:ImageIdentifier imageIdentifierLocation="//lib-docworks1/OUT/Monograph/4715477/IMAGES">0016.tif</mix:ImageIdentifier>
+		<mix:FileSize>114202964</mix:FileSize>
+		<mix:Orientation>1</mix:Orientation>
+		<mix:DisplayOrientation>1</mix:DisplayOrientation>
+	      </mix:File>
+	    </mix:BasicImageParameters>
+	    <mix:ImageCreation>
+	      <mix:SourceType>METAe_Monograph</mix:SourceType>
+	      <mix:SourceID></mix:SourceID>
+	      <mix:ImageProducer></mix:ImageProducer>
+	      <mix:Host>
+		<mix:HostComputer>LIB-DOCWORKS1</mix:HostComputer>
+		<mix:OperatingSystem>windows</mix:OperatingSystem>
+		<mix:OSVersion>6.1 Service Pack 1</mix:OSVersion>
+	      </mix:Host>
+	      <mix:DeviceSource></mix:DeviceSource>
+	      <mix:ScanningSystemCapture>
+		<mix:ScanningSystemHardware>
+		  <mix:ScannerManufacturer></mix:ScannerManufacturer>
+		  <mix:ScannerModel>
+		    <mix:ScannerModelName></mix:ScannerModelName>
+		    <mix:ScannerModelNumber></mix:ScannerModelNumber>
+		    <mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+		  </mix:ScannerModel>
+		</mix:ScanningSystemHardware>
+		<mix:ScanningSystemSoftware>
+		  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+		  <mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+		</mix:ScanningSystemSoftware>
+		<mix:ScannerCaptureSettings>
+		  <mix:PixelSize>0.0635000</mix:PixelSize>
+		  <mix:PhysScanResolution>
+		    <mix:XphysScanResolution>400</mix:XphysScanResolution>
+		    <mix:YphysScanResolution>400</mix:YphysScanResolution>
+		  </mix:PhysScanResolution>
+		</mix:ScannerCaptureSettings>
+	      </mix:ScanningSystemCapture>
+	    </mix:ImageCreation>
+	    <mix:ImagingPerformanceAssessment>
+	      <mix:SpatialMetrics>
+		<mix:ImageWidth>5317</mix:ImageWidth>
+		<mix:ImageLength>7156</mix:ImageLength>
+	      </mix:SpatialMetrics>
+	      <mix:Energetics>
+		<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+		<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+	      </mix:Energetics>
+	    </mix:ImagingPerformanceAssessment>
+	    <mix:ChangeHistory>
+	      <mix:ImageProcessing>
+		<mix:SourceData>./pudl/pudl0111/4715477/00000016.tif</mix:SourceData>
+	      </mix:ImageProcessing>
+	    </mix:ChangeHistory>
+	  </mix:mix>
+	</xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp ID="IMGGRP" USE="Images">
+      <file ID="IMG00001" CREATED="2013-09-03T17:06:47" ADMID="IMGPARAM00001" MIMETYPE="image/tiff" SEQ="1" CHECKSUM="bc8c3d3489f52306259d79fcab364c34ff467c06" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0001.tif"/>
+      </file>
+      <file ID="IMG00002" CREATED="2013-09-03T17:06:50" ADMID="IMGPARAM00002" MIMETYPE="image/tiff" SEQ="2" CHECKSUM="f2cf2ac78e478f295276f11d8d727249f208bbde" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0002.tif"/>
+      </file>
+      <file ID="IMG00003" CREATED="2013-09-03T17:06:53" ADMID="IMGPARAM00003" MIMETYPE="image/tiff" SEQ="3" CHECKSUM="5e04853aa4a7378cdf2db1e85181216cc94c44b2" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0003.tif"/>
+      </file>
+      <file ID="IMG00004" CREATED="2013-09-03T17:06:56" ADMID="IMGPARAM00004" MIMETYPE="image/tiff" SEQ="4" CHECKSUM="f07fa9ab114ee78152e01d4adda951a254b40132" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0004.tif"/>
+      </file>
+      <file ID="IMG00005" CREATED="2013-09-03T17:06:59" ADMID="IMGPARAM00005" MIMETYPE="image/tiff" SEQ="5" CHECKSUM="e4f2d1e1368652c3994c49bd73c2ebd1648a4a57" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0005.tif"/>
+      </file>
+      <file ID="IMG00006" CREATED="2013-09-03T17:07:02" ADMID="IMGPARAM00006" MIMETYPE="image/tiff" SEQ="6" CHECKSUM="f87fcd111a94f59513b2db5939f818825bda562f" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0006.tif"/>
+      </file>
+      <file ID="IMG00007" CREATED="2013-09-03T17:07:05" ADMID="IMGPARAM00007" MIMETYPE="image/tiff" SEQ="7" CHECKSUM="c071ee1030b5a4906d00db1fdcacca66d238a578" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0007.tif"/>
+      </file>
+      <file ID="IMG00008" CREATED="2013-09-03T17:07:08" ADMID="IMGPARAM00008" MIMETYPE="image/tiff" SEQ="8" CHECKSUM="0a2abbfbf53a7eecd48aa22732b858f4cf0f9e75" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0008.tif"/>
+      </file>
+      <file ID="IMG00009" CREATED="2013-09-03T17:07:11" ADMID="IMGPARAM00009" MIMETYPE="image/tiff" SEQ="9" CHECKSUM="8854c9b6a23043c0b8e7305795c631cbaa52b6b8" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0009.tif"/>
+      </file>
+      <file ID="IMG00010" CREATED="2013-09-03T17:07:14" ADMID="IMGPARAM00010" MIMETYPE="image/tiff" SEQ="10" CHECKSUM="85b13e3255b687cf5380df19d356cb404fa23a1d" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0010.tif"/>
+      </file>
+      <file ID="IMG00011" CREATED="2013-09-03T17:07:17" ADMID="IMGPARAM00011" MIMETYPE="image/tiff" SEQ="11" CHECKSUM="68d8dbdd5a65b0c3695ad7232d3ca1de0936e45e" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0011.tif"/>
+      </file>
+      <file ID="IMG00012" CREATED="2013-09-03T17:07:21" ADMID="IMGPARAM00012" MIMETYPE="image/tiff" SEQ="12" CHECKSUM="91118ab74e838c00bb4f0af553b945a82e825789" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0012.tif"/>
+      </file>
+      <file ID="IMG00013" CREATED="2013-09-03T17:07:24" ADMID="IMGPARAM00013" MIMETYPE="image/tiff" SEQ="13" CHECKSUM="286c5f2a55dae01de903c06b2110e701fb8d9d79" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0013.tif"/>
+      </file>
+      <file ID="IMG00014" CREATED="2013-09-03T17:07:27" ADMID="IMGPARAM00014" MIMETYPE="image/tiff" SEQ="14" CHECKSUM="2d363726b2db2fe67c4c9cea476226232b1f3841" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0014.tif"/>
+      </file>
+      <file ID="IMG00015" CREATED="2013-09-03T17:07:30" ADMID="IMGPARAM00015" MIMETYPE="image/tiff" SEQ="15" CHECKSUM="82c40e271854bfcee5a03923f1a8b6ddb7348505" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0015.tif"/>
+      </file>
+      <file ID="IMG00016" CREATED="2013-09-03T17:07:33" ADMID="IMGPARAM00016" MIMETYPE="image/tiff" SEQ="16" CHECKSUM="9aede1c17f9e2efb48cd8cbabc408e0f771323ce" CHECKSUMTYPE="SHA-1" SIZE="114202964">
+	<FLocat LOCTYPE="URL" xlink:href="file://./IMAGES/0016.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp ID="ALTOGRP" USE="Text">
+      <file ID="ALTO00001" CREATED="2013-09-03T17:07:33" MIMETYPE="text/xml" CHECKSUM="f0ebdf3e0f770110b9ff6414d9cde43c7b167042" CHECKSUMTYPE="SHA-1" SIZE="3619">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0001.xml"/>
+      </file>
+      <file ID="ALTO00002" CREATED="2013-09-03T17:07:34" MIMETYPE="text/xml" CHECKSUM="a8c401cbcabdbb754a88eb0231bfe1ebbddb2dd0" CHECKSUMTYPE="SHA-1" SIZE="6431">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0002.xml"/>
+      </file>
+      <file ID="ALTO00003" CREATED="2013-09-03T17:07:34" MIMETYPE="text/xml" CHECKSUM="f2630d938b85a8f03b44b165661c371e38216f57" CHECKSUMTYPE="SHA-1" SIZE="6861">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0003.xml"/>
+      </file>
+      <file ID="ALTO00004" CREATED="2013-09-03T17:07:34" MIMETYPE="text/xml" CHECKSUM="f145c4e897a9b233160cb405c12263d2476d7767" CHECKSUMTYPE="SHA-1" SIZE="6568">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0004.xml"/>
+      </file>
+      <file ID="ALTO00005" CREATED="2013-09-03T17:07:34" MIMETYPE="text/xml" CHECKSUM="d75e4b9ac86a4a9a1f1f2a464fdadcaf386adee0" CHECKSUMTYPE="SHA-1" SIZE="7382">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0005.xml"/>
+      </file>
+      <file ID="ALTO00006" CREATED="2013-09-03T17:07:34" MIMETYPE="text/xml" CHECKSUM="c42cdd8f1e493fd86d1614f71f464ff14671543f" CHECKSUMTYPE="SHA-1" SIZE="6495">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0006.xml"/>
+      </file>
+      <file ID="ALTO00007" CREATED="2013-09-03T17:07:34" MIMETYPE="text/xml" CHECKSUM="2b83d908f48ec16808bf9e52faedbae3da95dfe2" CHECKSUMTYPE="SHA-1" SIZE="6331">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0007.xml"/>
+      </file>
+      <file ID="ALTO00008" CREATED="2013-09-03T17:07:34" MIMETYPE="text/xml" CHECKSUM="5c74caa4900e825157be591d85f02280802bb97a" CHECKSUMTYPE="SHA-1" SIZE="6536">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0008.xml"/>
+      </file>
+      <file ID="ALTO00009" CREATED="2013-09-03T17:07:35" MIMETYPE="text/xml" CHECKSUM="11d36ed0e878de4e69b1d24b7e6d3cd27cef59de" CHECKSUMTYPE="SHA-1" SIZE="6685">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0009.xml"/>
+      </file>
+      <file ID="ALTO00010" CREATED="2013-09-03T17:07:35" MIMETYPE="text/xml" CHECKSUM="e0963de94d8e052c25d327728945678f09258b82" CHECKSUMTYPE="SHA-1" SIZE="6554">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0010.xml"/>
+      </file>
+      <file ID="ALTO00011" CREATED="2013-09-03T17:07:35" MIMETYPE="text/xml" CHECKSUM="c5e9822272cef0b098f7af811380b491a5e0bfa9" CHECKSUMTYPE="SHA-1" SIZE="7094">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0011.xml"/>
+      </file>
+      <file ID="ALTO00012" CREATED="2013-09-03T17:07:35" MIMETYPE="text/xml" CHECKSUM="28d9883e0c9888f0b5c098e2bde75a69f0701808" CHECKSUMTYPE="SHA-1" SIZE="6559">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0012.xml"/>
+      </file>
+      <file ID="ALTO00013" CREATED="2013-09-03T17:07:35" MIMETYPE="text/xml" CHECKSUM="772751fced2f3674880a03d00568227e3a75daea" CHECKSUMTYPE="SHA-1" SIZE="7270">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0013.xml"/>
+      </file>
+      <file ID="ALTO00014" CREATED="2013-09-03T17:07:35" MIMETYPE="text/xml" CHECKSUM="582c5cfa90fde07886e7e2e184f4475148347859" CHECKSUMTYPE="SHA-1" SIZE="6952">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0014.xml"/>
+      </file>
+      <file ID="ALTO00015" CREATED="2013-09-03T17:07:36" MIMETYPE="text/xml" CHECKSUM="e0a991a03356eb29ed94581a3a585c156f207f40" CHECKSUMTYPE="SHA-1" SIZE="1534">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0015.xml"/>
+      </file>
+      <file ID="ALTO00016" CREATED="2013-09-03T17:07:36" MIMETYPE="text/xml" CHECKSUM="ade44d024ca4dd358ca575d1f6b5d0cb3abcb5ce" CHECKSUMTYPE="SHA-1" SIZE="50145">
+	<FLocat LOCTYPE="URL" xlink:href="file://./ALTO/0016.xml"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap LABEL="Physical Structure" TYPE="PHYSICAL">
+    <div ID="DIVP1" LABEL="The Union ABC" TYPE="METAe_Monograph" DMDID="MODSMD_PRINT MODSMD_ELEC">
+      <div ID="DIVP2" ORDER="1" ORDERLABEL="1" TYPE="COVER_PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00001"/>
+	    <area FILEID="ALTO00001" BETYPE="IDREF" BEGIN="P1"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP3" ORDER="2" ORDERLABEL="2" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00002"/>
+	    <area FILEID="ALTO00002" BETYPE="IDREF" BEGIN="P2"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP4" ORDER="3" ORDERLABEL="3" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00003"/>
+	    <area FILEID="ALTO00003" BETYPE="IDREF" BEGIN="P3"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP5" ORDER="4" ORDERLABEL="4" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00004"/>
+	    <area FILEID="ALTO00004" BETYPE="IDREF" BEGIN="P4"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP6" ORDER="5" ORDERLABEL="5" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00005"/>
+	    <area FILEID="ALTO00005" BETYPE="IDREF" BEGIN="P5"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP7" ORDER="6" ORDERLABEL="6" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00006"/>
+	    <area FILEID="ALTO00006" BETYPE="IDREF" BEGIN="P6"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP8" ORDER="7" ORDERLABEL="7" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00007"/>
+	    <area FILEID="ALTO00007" BETYPE="IDREF" BEGIN="P7"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP9" ORDER="8" ORDERLABEL="8" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00008"/>
+	    <area FILEID="ALTO00008" BETYPE="IDREF" BEGIN="P8"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP10" ORDER="9" ORDERLABEL="9" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00009"/>
+	    <area FILEID="ALTO00009" BETYPE="IDREF" BEGIN="P9"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP11" ORDER="10" ORDERLABEL="10" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00010"/>
+	    <area FILEID="ALTO00010" BETYPE="IDREF" BEGIN="P10"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP12" ORDER="11" ORDERLABEL="11" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00011"/>
+	    <area FILEID="ALTO00011" BETYPE="IDREF" BEGIN="P11"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP13" ORDER="12" ORDERLABEL="12" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00012"/>
+	    <area FILEID="ALTO00012" BETYPE="IDREF" BEGIN="P12"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP14" ORDER="13" ORDERLABEL="13" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00013"/>
+	    <area FILEID="ALTO00013" BETYPE="IDREF" BEGIN="P13"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP15" ORDER="14" ORDERLABEL="14" TYPE="PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00014"/>
+	    <area FILEID="ALTO00014" BETYPE="IDREF" BEGIN="P14"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP16" ORDER="15" ORDERLABEL="15" TYPE="BLANK_PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00015"/>
+	    <area FILEID="ALTO00015" BETYPE="IDREF" BEGIN="P15"/>
+	  </par>
+	</fptr>
+      </div>
+      <div ID="DIVP17" ORDER="16" ORDERLABEL="16" TYPE="COVER_PAGE">
+	<fptr>
+	  <par>
+	    <area FILEID="IMG00016"/>
+	    <area FILEID="ALTO00016" BETYPE="IDREF" BEGIN="P16"/>
+	  </par>
+	</fptr>
+      </div>
+    </div>
+  </structMap>
+  <structMap LABEL="Logical Structure" TYPE="LOGICAL">
+    <div ID="DIVL1" TYPE="METAe_Monograph" LABEL="The Union ABC">
+      <div ID="DIVL2" TYPE="VOLUME" DMDID="MODSMD_PRINT MODSMD_ELEC" LABEL="The Union ABC">
+	<div ID="DIVL3" TYPE="FRONT">
+	  <div ID="DIVL4" TYPE="COVER_SECTION" ORDER="1">
+	    <div ID="DIVL5" TYPE="CONTENT">
+	      <div ID="DIVL6" TYPE="ILLUSTRATION" DMDID="MODSMD_PICT1" LABEL="Untitled">
+		<div ID="DIVL7" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL8" TYPE="TEXTBLOCK">
+		<fptr>
+		  <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00001"/>
+		</fptr>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div ID="DIVL9" TYPE="MAIN">
+	  <div ID="DIVL10" TYPE="CHAPTER" ORDER="1" DMDID="MODSMD_CHAP1" LABEL="A">
+	    <div ID="DIVL11" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL12" TYPE="BODY">
+	      <div ID="DIVL13" TYPE="BODY_CONTENT">
+		<div ID="DIVL14" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL15" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00002"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL16" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT2" LABEL="Untitled">
+		<div ID="DIVL17" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL18" TYPE="CHAPTER" ORDER="2" DMDID="MODSMD_CHAP2" LABEL="B">
+	    <div ID="DIVL19" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL20" TYPE="BODY">
+	      <div ID="DIVL21" TYPE="BODY_CONTENT">
+		<div ID="DIVL22" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL23" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00004"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL24" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT3" LABEL="Untitled">
+		<div ID="DIVL25" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL26" TYPE="CHAPTER" ORDER="3" DMDID="MODSMD_CHAP3" LABEL="C">
+	    <div ID="DIVL27" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL28" TYPE="BODY">
+	      <div ID="DIVL29" TYPE="BODY_CONTENT">
+		<div ID="DIVL30" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL31" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT4" LABEL="Untitled">
+		<div ID="DIVL32" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL33" TYPE="CHAPTER" ORDER="4" DMDID="MODSMD_CHAP4" LABEL="D">
+	    <div ID="DIVL34" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL35" TYPE="BODY">
+	      <div ID="DIVL36" TYPE="BODY_CONTENT">
+		<div ID="DIVL37" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00004"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL38" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT5" LABEL="Untitled">
+		<div ID="DIVL39" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL40" TYPE="CHAPTER" ORDER="5" DMDID="MODSMD_CHAP5" LABEL="E">
+	    <div ID="DIVL41" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL42" TYPE="BODY">
+	      <div ID="DIVL43" TYPE="BODY_CONTENT">
+		<div ID="DIVL44" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL45" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT6" LABEL="Untitled">
+		<div ID="DIVL46" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL47" TYPE="CHAPTER" ORDER="6" DMDID="MODSMD_CHAP6" LABEL="F">
+	    <div ID="DIVL48" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL49" TYPE="BODY">
+	      <div ID="DIVL50" TYPE="BODY_CONTENT">
+		<div ID="DIVL51" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL52" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00004"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL53" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT7" LABEL="Untitled">
+		<div ID="DIVL54" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL55" TYPE="CHAPTER" ORDER="7" DMDID="MODSMD_CHAP7" LABEL="G">
+	    <div ID="DIVL56" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL57" TYPE="BODY">
+	      <div ID="DIVL58" TYPE="BODY_CONTENT">
+		<div ID="DIVL59" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL60" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT8" LABEL="Untitled">
+		<div ID="DIVL61" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL62" TYPE="CHAPTER" ORDER="8" DMDID="MODSMD_CHAP8" LABEL="H">
+	    <div ID="DIVL63" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL64" TYPE="BODY">
+	      <div ID="DIVL65" TYPE="BODY_CONTENT">
+		<div ID="DIVL66" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL67" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_TB00004"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL68" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT9" LABEL="Untitled">
+		<div ID="DIVL69" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL70" TYPE="CHAPTER" ORDER="9" DMDID="MODSMD_CHAP9" LABEL="I">
+	    <div ID="DIVL71" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL72" TYPE="BODY">
+	      <div ID="DIVL73" TYPE="BODY_CONTENT">
+		<div ID="DIVL74" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL75" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT10" LABEL="Untitled">
+		<div ID="DIVL76" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL77" TYPE="CHAPTER" ORDER="10" DMDID="MODSMD_CHAP10" LABEL="J">
+	    <div ID="DIVL78" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL79" TYPE="BODY">
+	      <div ID="DIVL80" TYPE="BODY_CONTENT">
+		<div ID="DIVL81" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00004"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL82" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT11" LABEL="Untitled">
+		<div ID="DIVL83" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL84" TYPE="CHAPTER" ORDER="11" DMDID="MODSMD_CHAP11" LABEL="K">
+	    <div ID="DIVL85" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL86" TYPE="BODY">
+	      <div ID="DIVL87" TYPE="BODY_CONTENT">
+		<div ID="DIVL88" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL89" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT12" LABEL="Untitled">
+		<div ID="DIVL90" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL91" TYPE="CHAPTER" ORDER="12" DMDID="MODSMD_CHAP12" LABEL="L">
+	    <div ID="DIVL92" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL93" TYPE="BODY">
+	      <div ID="DIVL94" TYPE="BODY_CONTENT">
+		<div ID="DIVL95" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00004"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL96" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT13" LABEL="Untitled">
+		<div ID="DIVL97" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL98" TYPE="CHAPTER" ORDER="13" DMDID="MODSMD_CHAP13" LABEL="M">
+	    <div ID="DIVL99" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL100" TYPE="BODY">
+	      <div ID="DIVL101" TYPE="BODY_CONTENT">
+		<div ID="DIVL102" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL103" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT14" LABEL="Untitled">
+		<div ID="DIVL104" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL105" TYPE="CHAPTER" ORDER="14" DMDID="MODSMD_CHAP14" LABEL="N">
+	    <div ID="DIVL106" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL107" TYPE="BODY">
+	      <div ID="DIVL108" TYPE="BODY_CONTENT">
+		<div ID="DIVL109" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL110" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00004"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL111" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT15" LABEL="Untitled">
+		<div ID="DIVL112" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL113" TYPE="CHAPTER" ORDER="15" DMDID="MODSMD_CHAP15" LABEL="O">
+	    <div ID="DIVL114" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL115" TYPE="BODY">
+	      <div ID="DIVL116" TYPE="BODY_CONTENT">
+		<div ID="DIVL117" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL118" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT16" LABEL="Untitled">
+		<div ID="DIVL119" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL120" TYPE="CHAPTER" ORDER="16" DMDID="MODSMD_CHAP16" LABEL="P">
+	    <div ID="DIVL121" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL122" TYPE="BODY">
+	      <div ID="DIVL123" TYPE="BODY_CONTENT">
+		<div ID="DIVL124" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL125" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_TB00004"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL126" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT17" LABEL="Untitled">
+		<div ID="DIVL127" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00009" BEGIN="P9_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL128" TYPE="CHAPTER" ORDER="17" DMDID="MODSMD_CHAP17" LABEL="Q">
+	    <div ID="DIVL129" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL130" TYPE="BODY">
+	      <div ID="DIVL131" TYPE="BODY_CONTENT">
+		<div ID="DIVL132" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL133" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00002"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL134" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT18" LABEL="Untitled">
+		<div ID="DIVL135" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL136" TYPE="CHAPTER" ORDER="18" DMDID="MODSMD_CHAP18" LABEL="R">
+	    <div ID="DIVL137" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL138" TYPE="BODY">
+	      <div ID="DIVL139" TYPE="BODY_CONTENT">
+		<div ID="DIVL140" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_TB00004"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL141" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT19" LABEL="Untitled">
+		<div ID="DIVL142" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00010" BEGIN="P10_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL143" TYPE="CHAPTER" ORDER="19" DMDID="MODSMD_CHAP19" LABEL="S">
+	    <div ID="DIVL144" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL145" TYPE="BODY">
+	      <div ID="DIVL146" TYPE="BODY_CONTENT">
+		<div ID="DIVL147" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL148" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00002"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL149" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT20" LABEL="Untitled">
+		<div ID="DIVL150" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL151" TYPE="CHAPTER" ORDER="20" DMDID="MODSMD_CHAP20" LABEL="T">
+	    <div ID="DIVL152" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL153" TYPE="BODY">
+	      <div ID="DIVL154" TYPE="BODY_CONTENT">
+		<div ID="DIVL155" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_TB00004"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL156" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT21" LABEL="Untitled">
+		<div ID="DIVL157" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00011" BEGIN="P11_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL158" TYPE="CHAPTER" ORDER="21" DMDID="MODSMD_CHAP21" LABEL="U">
+	    <div ID="DIVL159" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL160" TYPE="BODY">
+	      <div ID="DIVL161" TYPE="BODY_CONTENT">
+		<div ID="DIVL162" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL163" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT22" LABEL="Untitled">
+		<div ID="DIVL164" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL165" TYPE="CHAPTER" ORDER="22" DMDID="MODSMD_CHAP22" LABEL="V">
+	    <div ID="DIVL166" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL167" TYPE="BODY">
+	      <div ID="DIVL168" TYPE="BODY_CONTENT">
+		<div ID="DIVL169" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL170" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_TB00004"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL171" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT23" LABEL="Untitled">
+		<div ID="DIVL172" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00012" BEGIN="P12_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL173" TYPE="CHAPTER" ORDER="23" DMDID="MODSMD_CHAP23" LABEL="W">
+	    <div ID="DIVL174" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00013" BEGIN="P13_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL175" TYPE="BODY">
+	      <div ID="DIVL176" TYPE="BODY_CONTENT">
+		<div ID="DIVL177" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00013" BEGIN="P13_TB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL178" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT24" LABEL="Untitled">
+		<div ID="DIVL179" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00013" BEGIN="P13_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL180" TYPE="CHAPTER" ORDER="24" DMDID="MODSMD_CHAP24" LABEL="X">
+	    <div ID="DIVL181" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00013" BEGIN="P13_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL182" TYPE="BODY">
+	      <div ID="DIVL183" TYPE="BODY_CONTENT">
+		<div ID="DIVL184" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL185" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00013" BEGIN="P13_TB00004"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL186" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT25" LABEL="Untitled">
+		<div ID="DIVL187" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00013" BEGIN="P13_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL188" TYPE="CHAPTER" ORDER="25" DMDID="MODSMD_CHAP25" LABEL="Y">
+	    <div ID="DIVL189" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00014" BEGIN="P14_TB00001"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL190" TYPE="BODY">
+	      <div ID="DIVL191" TYPE="BODY_CONTENT">
+		<div ID="DIVL192" TYPE="PARAGRAPH" ORDER="1">
+		  <div ID="DIVL193" TYPE="TEXT">
+		    <fptr>
+		      <area BETYPE="IDREF" FILEID="ALTO00014" BEGIN="P14_TB00002"/>
+		    </fptr>
+		  </div>
+		</div>
+	      </div>
+	      <div ID="DIVL194" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT26" LABEL="Untitled">
+		<div ID="DIVL195" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00014" BEGIN="P14_CB00001"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	  <div ID="DIVL196" TYPE="CHAPTER" ORDER="26" DMDID="MODSMD_CHAP26" LABEL="Z">
+	    <div ID="DIVL197" TYPE="TITLE">
+	      <fptr>
+		<area BETYPE="IDREF" FILEID="ALTO00014" BEGIN="P14_TB00003"/>
+	      </fptr>
+	    </div>
+	    <div ID="DIVL198" TYPE="BODY">
+	      <div ID="DIVL199" TYPE="BODY_CONTENT">
+		<div ID="DIVL200" TYPE="TEXTBLOCK" ORDER="1">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00014" BEGIN="P14_TB00004"/>
+		  </fptr>
+		</div>
+	      </div>
+	      <div ID="DIVL201" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT27" LABEL="Untitled">
+		<div ID="DIVL202" TYPE="IMAGE">
+		  <fptr>
+		    <area BETYPE="IDREF" FILEID="ALTO00014" BEGIN="P14_CB00002"/>
+		  </fptr>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+	<div ID="DIVL203" TYPE="BACK">
+	  <div ID="DIVL204" TYPE="ADVERTISEMENT">
+	    <fptr>
+	      <area BETYPE="IDREF" FILEID="ALTO00016" BEGIN="P16_CB00001"/>
+	    </fptr>
+	  </div>
+	  <div ID="DIVL205" TYPE="ADVERTISEMENT">
+	    <fptr>
+	      <area BETYPE="IDREF" FILEID="ALTO00016" BEGIN="P16_CB00002"/>
+	    </fptr>
+	  </div>
+	  <div ID="DIVL206" TYPE="ADVERTISEMENT">
+	    <fptr>
+	      <area BETYPE="IDREF" FILEID="ALTO00016" BEGIN="P16_CB00003"/>
+	    </fptr>
+	  </div>
+	  <div ID="DIVL207" TYPE="ADVERTISEMENT">
+	    <fptr>
+	      <area BETYPE="IDREF" FILEID="ALTO00016" BEGIN="P16_CB00004"/>
+	    </fptr>
+	  </div>
+	  <div ID="DIVL208" TYPE="ADVERTISEMENT">
+	    <fptr>
+	      <area BETYPE="IDREF" FILEID="ALTO00016" BEGIN="P16_CB00005"/>
+	    </fptr>
+	  </div>
+	  <div ID="DIVL209" TYPE="ADVERTISEMENT">
+	    <fptr>
+	      <area BETYPE="IDREF" FILEID="ALTO00016" BEGIN="P16_CB00006"/>
+	    </fptr>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </structMap>
+</mets>
